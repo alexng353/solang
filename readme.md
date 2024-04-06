@@ -1,20 +1,20 @@
-# So Lang? So what?
+`# So Lang? So what?
 
 <img src=Logo.png width=200 height=200/>
-SoLang is an esoteric, example-centric programming language built on Kotlin DSL platform.
+SoLang is an esoteric, example-centric programming language built on the Kotlin DSL platform.
 It is based on an assumption that every program can be written using only code fetched from StackOverflow answers.
-The language allows developer to write extremely concise code by referencing snippets available online.
+The language allows developers to write extremely concise code by referencing snippets available online.
 
-### So what is SoLang and why should I use it?
+### So what is SoLang, and why should I use it?
  - It's built around [Stack Overflow Driven Development](https://dzone.com/articles/stack-overflow-driven-development-sodd-its-really) process and brings it to the next level.
- - You don't ever need to write code which has been already written - just reference it!
- - Your code is always up to date - when someone update their answer on Stack Overflow, your code is automatically updated as well!
- - The code is usually more concise. Want to set-up a server with simple one-liner? That's the language for you!
+ - You don't ever need to write code that has already been written - just reference it!
+ - Your code is always up to date. When someone updates their answer on Stack Overflow, your code is automatically updated as well!
+ - The code is usually more concise. Want to set up a server with a simple one-liner? That's the language for you!
  - You can write code which iterates over all solutions - find yourself the best one without copying and pasting code on and on again
- - Love writing malware? Well, now you can write one which no antivirus software will detect. Nobody expect downloading malicious code from Stact Overflow.
- - You can fully control compilation process with all features of kotlin programming language
+ - Do you love writing malware? Well, now you can write one which no antivirus software will detect. Nobody expects to download malicious code from Stack Overflow.
+ - You can fully control the compilation process with all features of the Kotlin programming language
  - Parallel code fetching and compilation (so that it doesn't take ages)
- - Answer caching - if you fetch different fragments of code from the same answer - don't worry, the data will be cached. Stack Exchange API will be called only once.
+ - Answer caching: If you fetch different fragments of code from the same answer, don't worry—the data will be cached. The Stack Exchange API will be called only once.
 
 ## Example code
 
